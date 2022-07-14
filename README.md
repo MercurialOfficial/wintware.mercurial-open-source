@@ -1,2 +1,1 @@
-# wintware.mercurial-open-source
-Minecraft best cheat client "Wintware" or "Mercurial".
+# WintWare open source. Credits to xWhitey. #Minecraft #MinecraftCheat
